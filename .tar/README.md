@@ -15,4 +15,4 @@ Aetheric field,Arc-Length Axiom,Quaternionic dynamics,Ampèrean force,Leech latt
 
 ---
 
-PS: It's a re-interpretation revising currently accepted theory for the express purpose of formulating a more unified theory than that of currently accepted consensus on the merits of the  historical scientific data alone.
+> "**PS:** It's a re-interpretation revising currently accepted theory for the express purpose of formulating a more unified theory than that of currently accepted consensus on the merits of the  historical scientific data alone."
